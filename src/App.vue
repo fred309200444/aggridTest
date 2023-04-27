@@ -44,10 +44,12 @@ export default {
     rowSelection="multiple"
     animateRows="true"
   >
+  <span>2</span>
   </ag-grid-vue>
+  
 </template>
 
-<style scoped>
+<style>
 .logo {
   height: 6em;
   padding: 1.5em;
