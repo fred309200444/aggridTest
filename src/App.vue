@@ -44,7 +44,7 @@ export default {
     rowSelection="multiple"
     animateRows="true"
   >
-  <span>3</span>
+  <span>5</span>
   </ag-grid-vue>
   
 </template>
